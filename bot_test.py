@@ -20,7 +20,7 @@ import requests
 r = requests.get("https://api.telegram.org")
 print(r.status_code)
 
-url = "https://api.telegram.org/bot8278695614:AAENtMMG16xETYg6tWR7tT4kmi5VNBnKJ0g/getUpdates"
+url = "https://api.telegram.org/botteletoke/getUpdates"
 
 payload = {}
 headers = {}
